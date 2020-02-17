@@ -6,10 +6,10 @@ Linear programming is a mathematical method that is used to determine the best p
 
 An optimization model seeks to find the values of the decision variables that optimize (maximize or minimize) an objective function among the set of all values for the decision variables that satisfy the given constraints. 
 ### Common Terminology used in Linear Programming (Linear Optimization).
-Decision Variables:  To solve any problem, we first need to identify the decision variables. 
-Objective Functions: It is defined as the objective of making decisions.
-Constraints: The constraints are the restrictions or limitations on the decision variables. They usually limit the value of the decision variables. 
-Non-negativity restriction: For all linear programs, the decision variables should always take non-negative values. Which means the values for decision variables should be greater than or equal to 0.
+##### Decision Variables:  To solve any problem, we first need to identify the decision variables. 
+#### Objective Functions: It is defined as the objective of making decisions.
+#### Constraints: The constraints are the restrictions or limitations on the decision variables. They usually limit the value of the decision variables. 
+##### Non-negativity restriction: For all linear programs, the decision variables should always take non-negative values. Which means the values for decision variables should be greater than or equal to 0.
 
 
 ### Example :
